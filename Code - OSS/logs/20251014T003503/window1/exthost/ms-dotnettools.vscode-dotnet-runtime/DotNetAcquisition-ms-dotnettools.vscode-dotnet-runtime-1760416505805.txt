@@ -1,0 +1,63 @@
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.composer-php-vscode for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.intelli-php-vscode for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.phptools-vscode for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension DEVSENSE.profiler-php-vscode for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension esbenp.prettier-vscode for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension golang.go for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.cmake-tools for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.cpptools-themes for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-icon-theme for .NET installation requests
+
+10/14/2025, 12:35:05 AM 807 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests

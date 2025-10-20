@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=docmarten@cock.li
+Enabled=true
+Parent=fffb6d48f81cd9330a7346280259cec33b0fe1d9
+
+[Authentication]
+Host=mail.cock.li
+Method=none
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=william
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true
