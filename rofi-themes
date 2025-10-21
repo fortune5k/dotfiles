@@ -1,0 +1,15 @@
+TO INSTALL PREFERED THEME:
+
+---------------------------
+
+git clone https://github.com/lr-tech/rofi-themes-collection.git
+cd rofi-themes-collection
+
+mkdir -p ~/.local/share/rofi/themes/
+
+cp themes/squared-everforest.rasi ~/.local/share/rofi/themes/
+
+--------------------------- 
+
+then go to rofi-theme-selector in run mode and choose squared-everforest
+
