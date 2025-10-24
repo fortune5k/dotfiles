@@ -18,6 +18,7 @@ exec_always --no-startup-id picom -b --config .config/picom/picom.conf
 exec --no-startup-id feh --bg-scale ~/.config/Images/pinkwp.png
 exec --no-startup-id pipewire &
 exec --no-startup-id pipewire-pulse &
+#exec --no-startup-id flameshot 
 #exec --no-startup-id killall polybar
 #exec --no-startup-id polybar --config=~/.config/polybar/floating_bar/config.ini
 #exec xinput set-prop "13" "libinput Tapping Enabled" 1
@@ -52,6 +53,9 @@ bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+
+# screenshot
+bindsym Print exec --no-startup-id flameshot gui
 
 # brightnessctl
 bindsym XF86MonBrightnessUp exec --no-startup-id sudo /usr/bin/brightnessctl set +5%
