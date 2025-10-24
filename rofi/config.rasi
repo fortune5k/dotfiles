@@ -3,4 +3,8 @@
 
 //@theme "/usr/share/rofi/themes/arthur.rasi"
 
-@theme "/home/william/.local/share/rofi/themes/squared-everforest.rasi"
+//@theme "/home/william/.local/share/rofi/themes/squared-everforest.rasi"
+
+//@theme "/home/william/.local/share/rofi/themes/rounded-pink-dark.rasi"
+
+@theme "/home/william/.local/share/rofi/themes/squared-pink.rasi"
